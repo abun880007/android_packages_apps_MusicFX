@@ -1,5 +1,5 @@
 android_app {
-    name: "MusicFX",
+    name: "Equaliser",
     srcs: ["src/**/*.java"],
     libs: ["framework"],
     platform_apis: true,
